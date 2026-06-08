@@ -5,6 +5,6 @@
 From Rwanda 🇷🇼 · I build things and read too much.
 
 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rwagatare-livingstone/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rwagatare-livingstone/)
 
 </div>
