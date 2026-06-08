@@ -2,7 +2,7 @@
 
 # Hi, I'm Livingstone Rwagatare
 
-From Rwanda 🇷🇼 · I build things and read too much.
+From Rwanda 🇷🇼, living in CA · I build things · Let's connect, build something, or swap a book recommendation
 
 </div>
 
