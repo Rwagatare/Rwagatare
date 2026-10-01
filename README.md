@@ -1,16 +1,35 @@
 <div align="center">
 
-# Hi, I'm Livingstone Rwagatare
+<br>
 
-From Rwanda 🇷🇼, living in CA · I build things · <a href="https://rwagatare.github.io/">rwagatare.github.io</a>
+# Livingstone Rwagatare
+
+**I build things.**
+
+From Rwanda 🇷🇼 · Living in California
+
+<br>
+
+[Website ›](https://rwagatare.github.io/)
+
+[LinkedIn ›](https://www.linkedin.com/in/rwagatare-livingstone/)
+
+<br>
+
+---
+
+<br>
+
+### Worko
+
+One line on what Worko does and who it's for.
+
+<br>
+
+<a href="WORKO_URL_HERE">
+  <img src="https://img.shields.io/badge/Try_Worko-0071E3?style=flat" height="32" alt="Try Worko" />
+</a>
+
+<br><br>
 
 </div>
-
-**Connect with me:**
-
-<a href="https://rwagatare.github.io/">
-  <img src="https://img.shields.io/badge/Website-rwagatare.github.io-000?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" />
-</a>
-<a href="https://www.linkedin.com/in/rwagatare-livingstone/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
